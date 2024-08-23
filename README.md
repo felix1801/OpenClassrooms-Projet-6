@@ -68,3 +68,47 @@ Voici le mail qu’elle vous a envoyé.
 >- PJ 2 : [Notebook d’extraction de features d’images et d’étude de faisabilité](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Data_Scientist_P6/Weather_Images_CNN_Transfer_Learning_Stage_1_feasibility_V1.0.ipynb)
 
 Pour l’approche de type SIFT, n’hésitez pas à consulter le webinaire disponible dans les [ressources](https://openclassrooms.com/projects/1503/resources).
+
+# Mission : Réalisez une classification supervisée d'image
+## Comment allez-vous procéder ?
+Cette mission suit le scénario de projet professionnel que vous avez démarré précedemment dans ce projet.
+
+Vous pouvez suivre les étapes pour vous aider à réaliser vos livrables.
+
+Avant de démarrer, nous vous conseillons de :
+- lire toute la mission et ses documents liés ;
+- prendre des notes sur ce que vous avez compris ;
+- consulter les étapes pour vous guider ; 
+- préparer une liste de questions pour votre première session de mentorat.
+
+## Prêt à mener la mission ?
+Vous continuez votre travail au sein de "Place du marché". Vous avez partagé le travail effectué lors de votre mission précédente avec Lead Data Scientist, Linda. Elle vous invite désormais à aller plus loin dans l’analyse d’images. 
+
+Voici le mail qu’elle vous a envoyé.
+
+>__De :__ Linda  
+>__À :__ Moi  
+>__Objet :__ suite de la mission  
+>
+>Bonjour,
+>
+>Merci beaucoup pour ton travail ! Voici la suite de ta mission : 
+>
+>Pourrais-tu réaliser une __classification supervisée à partir des images__ ? Je souhaiterais que tu mettes en place une __data augmentation__ afin d’optimiser le modèle.
+>
+>De plus, nous souhaitons élargir notre gamme de produits à l’épicerie fine. 
+>
+>Pour cela, pourrais-tu tester la collecte de produits à base de “champagne” via l’[API disponible ici](https://rapidapi.com/edamam/api/edamam-food-and-grocery-database) ? 
+>
+>Pourrais-tu ensuite nous proposer un __script__ ou __notebook Python__ permettant une extraction des 10 premiers produits dans un fichier “.csv”, contenant pour chaque produit les données suivantes : foodId, label, category, foodContentsLabel, image.
+>
+>Enfin, pourrais-tu formaliser dans un __support de présentation__ de 30 slides maximum au format PDF __l’ensemble de ta démarche__ ainsi que les __résultats__ d’analyse les plus pertinents  ?
+>
+>Merci encore, bon courage !  
+>Linda
+>
+>PS : En pièce jointe, tu trouveras pour t’aider un __exemple__ de mise en œuvre de classification supervisée sur un autre dataset.
+>
+>PJ : [Notebook d’exemple de classification supervisée d’images](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Data_Scientist_P6/Weather_Images_CNN_Transfer_Learning_Stage_2_supervised_classification_V1.0.ipynb)
+
+Bon courage !
