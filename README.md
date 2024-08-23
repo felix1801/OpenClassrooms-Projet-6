@@ -66,5 +66,5 @@ Voici le mail qu’elle vous a envoyé.
 >Pièces jointes : 
 >- PJ 1 : [Jeu de données d’articles](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip)
 >- PJ 2 : [Notebook d’extraction de features d’images et d’étude de faisabilité](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Data_Scientist_P6/Weather_Images_CNN_Transfer_Learning_Stage_1_feasibility_V1.0.ipynb)
->
->Pour l’approche de type SIFT, n’hésitez pas à consulter le webinaire disponible dans les [ressources](https://openclassrooms.com/projects/1503/resources).
+
+Pour l’approche de type SIFT, n’hésitez pas à consulter le webinaire disponible dans les [ressources](https://openclassrooms.com/projects/1503/resources).
