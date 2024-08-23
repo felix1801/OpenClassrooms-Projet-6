@@ -27,8 +27,8 @@ Une image et un texte décrivant un produit mènent à une flèche vers un label
 
 Voici le mail qu’elle vous a envoyé.
 
->__De :__ Linda
->__À :__ moi
+>__De :__ Linda  
+>__À :__ moi  
 >__Objet :__ démarrage de la mission
 >
 >Bonjour, 
@@ -58,7 +58,7 @@ Voici le mail qu’elle vous a envoyé.
 >
 >Pour t’aider, en deuxième pièce jointe, tu trouveras un __exemple__ de Notebook mettant en œuvre les approches d’extraction de features d’images sur un autre dataset.
 >
->Merci encore, 
+>Merci encore,  
 >Linda
 >
 >PS : J’ai bien vérifié qu’il n’y avait aucune contrainte de propriété intellectuelle sur les données et les images.
